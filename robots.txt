@@ -3,6 +3,9 @@ User-agent: *
 Allow: /
 Allow: /#about
 Allow: /#services
+Allow: /#projects
+Allow: /#logos
+Allow: /#techhubs
 Allow: /#contact
 
 # Sitemaps
