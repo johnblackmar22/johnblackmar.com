@@ -1,6 +1,7 @@
 # Netlify configuration file
 
 [build]
+  command = "echo 'Static site — no build needed'"
   publish = "/"
   
 [[headers]]

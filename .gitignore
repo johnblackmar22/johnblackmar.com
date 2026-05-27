@@ -6,3 +6,6 @@ deploy-packages/
 src/
 contracting-website/
 *.pdf
+
+# Local Netlify folder
+.netlify
