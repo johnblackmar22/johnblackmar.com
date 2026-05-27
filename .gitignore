@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+deploy-packages/
+*.zip
+.claude/
+src/
+contracting-website/
+*.pdf
